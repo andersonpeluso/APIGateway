@@ -30,4 +30,5 @@ Ocelot é uma biblioteca que permite criar um API Gateway com o ASP.NET. Possuin
 Mesmo que seja voltado para aplicações .NET que estejam implementando uma arquitetura de microsserviços, o Ocelot pode ser utilizado como API Gateway de qualquer tipo de sistema que implemente esta arquitetura.
 
 Para conhecê-lo melhor, vamos ver um exemplo prático.
+
 ![unnamed](https://user-images.githubusercontent.com/45976596/116815505-3cb3d680-ab34-11eb-8333-dd9f72199172.png)
